@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[COLOR white][B]LANÇAMENTOS[/B][COLOR white]☢[/COLOR][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-lancamento</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]AÇÃO[/B][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]AÇÃO[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-acao</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -21,7 +21,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]FICÇÃO[/B][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]FICÇÃO[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-ficcao</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -32,7 +32,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]SUSPENSE[/B][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]SUSPENSE[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-suspense</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -43,7 +43,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]COMEDIA[/B][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]COMEDIA[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-comedia</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -54,7 +54,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]TERROR[/B][/COLOR][COLOR green][B] ||| TAKE [/B][/COLOR][COLOR yellow][B]ROOM |||[/B][/COLOR]</name>
+<name>[COLOR white][B]TERROR[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-terror</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
