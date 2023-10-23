@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:tvg-logo="https://i.imgur.com/vro7Hqu.jpg" group-title="TV AO VIVO",[COLOR turquoise]||||||||TESTE TV|||||||[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]TESTE[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4p.vc:80/live/Jefersonaraujo/pvjefersonpv/149792.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="VARIEDADES",E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="VARIEDADES",E!ENTERTAINMENT
 https://0033-vos.dtvott.com/DASH/stream_06/Segment-3990891438631353.m4v
