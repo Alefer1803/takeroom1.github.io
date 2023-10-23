@@ -1,4 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="VARIEDADES",E!ENTERTAINMENT
-https://0033-vos.dtvott.com/DASH/stream_06/Segment-3990891438631353.m4v
+https://cdn4.playmatic.video/native_video/6626742_1674638777.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",REDE GLOBO
+https://live-01.edge-oi-ecox-mt.video.globo.com/d/s/hls-globo-mt/playlist.m3u8?h=0401665117788145669631516650313882533722429a-hBm6Kih7l7oSf2N49z7A&k=html5&a=F&u=ccb1f280-ecbb-43e6-aa83-b193a1dcf0bf|Origin=https://globoplay.globo.com
