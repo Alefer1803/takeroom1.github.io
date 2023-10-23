@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://axr.life/xmltv.php?username=00005777&password=mf159357c"
-#EXTINF:-1 tvg-id="DWIGHT FARROKH" tvg-name="TESTE TV AO VIVO" tvg-logo="https://i.imgur.com/vro7Hqu.jpg" group-title="TESTE TV AO VIVO",[COLOR turquoise]||||||||DWIGHT FARROKH|||||||[/COLOR]
+#EXTINF:-1 tvg-id="TESTE TV AO VIVO" tvg-name="TESTE TV AO VIVO" tvg-logo="https://i.imgur.com/vro7Hqu.jpg" group-title="TESTE TV AO VIVO",[COLOR turquoise]||||||||DWIGHT FARROKH|||||||[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]TESTE[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4p.vc:80/live/Jefersonaraujo/pvjefersonpv/149792.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N7WPCBXL7BPRBDNQ5ZPWOY5OUU.jpg" group-title="CANAIS | FILMES",HBO TESTE
