@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="DWIGHT FARROKH" tvg-name="DWIGHT FARROKH" tvg-logo="https://i.imgur.com/vro7Hqu.jpg" group-title="DWIGHT FARROKH",[COLOR turquoise]||||||||DWIGHT FARROKH|||||||[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR turquoise]TESTE[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://4p.vc:80/live/Jefersonaraujo/pvjefersonpv/149792.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N7WPCBXL7BPRBDNQ5ZPWOY5OUU.jpg" group-title="CANAIS | FILMES",HBO TESTE
+https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=177.22.40.14&token=9f5b57dfcd5465e0b0db7ce7ae65ca8d2f08c4cc-015b825ea39ef1c06e650d9a03023d85-1698031356-1698024156
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",REDE GLOBO
 https://live-01.edge-oi-ecox-mt.video.globo.com/d/s/hls-globo-mt/playlist.m3u8?h=0401665117788145669631516650313882533722429a-hBm6Kih7l7oSf2N49z7A&k=html5&a=F&u=ccb1f280-ecbb-43e6-aa83-b193a1dcf0bf|Origin=https://globoplay.globo.com
