@@ -1,9 +1,11 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
 https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc237fd5e66e239813be664b05e89daf69-3d223e939990f551181d59a2cc2c6dda-1698172956-1698165756
 
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/fc/fd/88/fcfd88281e67c3e234b7c8ea52397514.jpg" group-title="CANAIS | FILMES",24H-FILMES DE AÇÃO
+https://tvembed.net/filme-acao/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c4b7244c6ce56d059a06ba082e52d5f6461e4c47-1d3417543156a00cf9f6e8b5da7a6f6c-1698174012-1698166812
 
 #A
 
