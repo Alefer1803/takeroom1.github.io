@@ -4,7 +4,7 @@
 https://cdn4.playmatic.video/native_video/6626742_1674638777.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",REDE GLOBO
-https://live-01.edge-oi-ecox-mt.video.globo.com/d/s/hls-globo-mt/playlist.m3u8?h=0401665117788145669631516650313882533722429a-hBm6Kih7l7oSf2N49z7A&k=html5&a=F&u=ccb1f280-ecbb-43e6-aa83-b193a1dcf0bf|Origin=https://globoplay.globo.com
+https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc237fd5e66e239813be664b05e89daf69-3d223e939990f551181d59a2cc2c6dda-1698172956-1698165756
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",24H-SUCESSOS
 https://tvembed.net/filme-sucessos/tracks-v1a1/mono.m3u8?remote=177.22.43.11&token=7c86995ae7382280b43686014e15ec33c0410a05-28c6dbd8f2f9c19319b7c2058d084d65-1698038086-1698030886
