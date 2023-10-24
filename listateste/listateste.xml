@@ -7,14 +7,6 @@ https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/fc/fd/88/fcfd88281e67c3e234b7c8ea52397514.jpg" group-title="CANAIS | FILMES",24H-FILMES DE AÇÃO
 https://tvembed.net/filme-acao/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c4b7244c6ce56d059a06ba082e52d5f6461e4c47-1d3417543156a00cf9f6e8b5da7a6f6c-1698174012-1698166812
 
-
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
 #A
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",AMC
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/139467
