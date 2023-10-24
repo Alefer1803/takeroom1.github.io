@@ -30,8 +30,9 @@ https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc
 #EXTINF:-1 tvg-logo="https://www.guiadetv.com/upload/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="FILMES",HBO EXTREME
 https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=d4bcdd77157e02051d629350be15676c197e8e4f-9d39a467e4fc91d2eed48043acb7d479-1698173584-1698166384
 
-#EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/fx_667be543_3c499932139ff72a9d0fb1c73e9b3a1eef121c6c/playlist.m3u8?jsf=YTozOntpOjA7czozOToiMjgwNDoyMDA0OjUyMGQ6YzM3ODo0MWMwOjU0NGQ6MmE0NToyYmVmIjtpOjE7czoxMTE6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY5ODE3NDkyOTt9
+#EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",FX
+https://player.aovivotv.xyz/09613788-6b7f-4892-9431-2e409c874d0f
+
 #I
 
 #J
