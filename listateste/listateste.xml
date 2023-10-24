@@ -12,6 +12,8 @@ https://tvembed.net/filme-acao/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c
 #B
 
 #C
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/56930a150542217.Y3JvcCw4MDgsNjMyLDAsMA.png" group-title="CANAIS | FILMES",CINEMAX
+https://tvembed.net/cinemax/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=9f36551a24212a404c5c9a2e955680ce3eadd6d6-1fd1f88839b110357a72972e8f7b46fd-1698174304-1698167104
 
 #D
 
