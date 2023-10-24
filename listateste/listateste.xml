@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="VARIEDADES",E!ENTERTAINMENT
 https://cdn4.playmatic.video/native_video/6626742_1674638777.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",REDE GLOBO
+#EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
 https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc237fd5e66e239813be664b05e89daf69-3d223e939990f551181d59a2cc2c6dda-1698172956-1698165756
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | VARIEDADES",24H-SUCESSOS
@@ -26,6 +26,9 @@ https://0034-vos.dtvott.com/DASH/stream_08/1697438639855_init.m4i
 #G
 
 #H
+#EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
+https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc237fd5e66e239813be664b05e89daf69-3d223e939990f551181d59a2cc2c6dda-1698172956-1698165756
+
 #EXTINF:-1 tvg-logo="https://www.guiadetv.com/upload/channel/qzb3fL6mKciPavmJlq7rLXmUYus0VFx4U1F5hyR0.png" group-title="FILMES",HBO EXTREME
 https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=177.22.43.11&token=53606edf83707fc4bff7e97abff74b965ab888b7-54ae0bf44e68d7b2ecd39a030dcc3bd6-1698037463-1698030263
 
