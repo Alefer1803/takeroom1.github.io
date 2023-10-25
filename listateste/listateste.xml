@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
 
