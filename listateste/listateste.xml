@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTINF:0,https://edgeaws.aovivotv.xyz/hls/s:51.15.40.23/warnerchannel_0a57cb53_011196cb5bd46ea8d013e2da9e378437ccff785d/1698248718000.ts
 
 #EXTINF:-1 tvg-logo="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2023/05/01-103.jpg" group-title="CANAIS | FILMES",HBO
 https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc237fd5e66e239813be664b05e89daf69-3d223e939990f551181d59a2cc2c6dda-1698172956-1698165756
