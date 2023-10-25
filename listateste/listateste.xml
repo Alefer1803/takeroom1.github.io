@@ -8,8 +8,8 @@ https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c7b1e0fc
 https://tvembed.net/filme-acao/tracks-v1a1/mono.m3u8?remote=168.197.0.89&token=c4b7244c6ce56d059a06ba082e52d5f6461e4c47-1d3417543156a00cf9f6e8b5da7a6f6c-1698174012-1698166812
 
 #A
-  #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",TESTE
-https://edgeaws.aovivotv.xyz/hls/s:51.15.40.23/warnerchannel_0a57cb53_011196cb5bd46ea8d013e2da9e378437ccff785d/1698248718000.ts
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",TESTE
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/warnerchannel_0a57cb53_011196cb5bd46ea8d013e2da9e378437ccff785d/1698248718000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MEXICO",AZTECA 7
 https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/warnerchannel_0a57cb53_011196cb5bd46ea8d013e2da9e378437ccff785d/playlist.m3u8?jsf=YTozOntpOjA7czozOToiMjgwNDoyMDA0OjUyMGQ6YzM3ODo0MWMwOjU0NGQ6MmE0NToyYmVmIjtpOjE7czoxMTE6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTguMC4wLjAgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY5ODI0ODA0NTt9
