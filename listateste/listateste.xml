@@ -1,4 +1,28 @@
 #EXTM3U
+
+#EXTINF:-1,A&E FHD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/3
+#EXTINF:-1,A&E HD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/4
+#EXTINF:-1,AGRO CANAL FHD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/5
+#EXTINF:-1,AGRO CANAL HD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/1188
+#EXTINF:-1,AMC FHD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/6
+#EXTINF:-1,AMC HD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/7
+#EXTINF:-1,ANIMAL PLANET FHD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/8
+#EXTINF:-1,ANIMAL PLANET HD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/9
+#EXTINF:-1,ARTE 1 FHD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/10
+#EXTINF:-1,ARTE 1 HD
+http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/11
+
+
+######TESTE
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band Minas
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
