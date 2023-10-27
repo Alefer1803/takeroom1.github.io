@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,A FAZENDA
-https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/hdntl=exp=1698456845~acl=%2f*~data=hdntl~hmac=8e87d329e437a94ee7605a3db6907d00907d12f2fbc3e4666c467c7a6f5acf51/master_720.m3u8
-
 #EXTINF:-1,A&E FHD
 http://bgp20.nbkp.xyz:80/arthur/ZC7QcGes5jEx/3
 #EXTINF:-1,A&E HD
