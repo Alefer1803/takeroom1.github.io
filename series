@@ -34,6 +34,15 @@
 #H
 
 #I
+<channels>
+ <channel>
+ <name>[COLOR white][B]INVASÃO[/B][/COLOR]</name>
+ <thumbnail>https://www.themoviedb.org/t/p/original/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/invasao</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Uma visita extraterrestre ameaça a existência humana. Os impactos a dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.</info>
+ </channel>
+ </channels>
 
 #J
 
