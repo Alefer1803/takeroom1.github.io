@@ -9,6 +9,16 @@
  </channel>
  </channels>
 
+<channels>
+ <channel>
+ <name>[COLOR white][B]A CRIATURA[/B][/COLOR]</name>
+ <thumbnail>https://www.themoviedb.org/t/p/original/eWQ7zpTVa1Gdgmnd58nM3I7nzuZ.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/a-criatura</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>A tragédia se abate sobre um cientista da antiga Istambul, e um pupilo usa métodos não comprovados para terminar seu trabalho. Só que as consequências são devastadoras.</info>
+ </channel>
+ </channels>
+
 #B
 
 #C
