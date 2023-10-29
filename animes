@@ -47,6 +47,16 @@
 #R
 
 #S
+<channels>
+ <channel>
+ <name>[COLOR white][B]SHURATO[/B][/COLOR]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUN0cs2JvMAXAaY9kGnZiVSdHmM.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-animes/shurato</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Shurato, é uma série de mangá criada por Hiroshi Kawamoto e transformada em anime pela Tatsunoko Productions. Tanto o anime e o mangá seguem as tentativas dos deuses de Asura em dominar o Mundo Celestial. Shurato, o personagem título, foi trazido para o campo de batalha e se torna um membro essencial dos Oito Guardiões do Povo de Deva e luta para resgatar a deusa Vishnu. Tanto no mangá e anime, Asura é representado por Indra, cujos subordinados engajam Shurato e seus companheiros em diversas ocasiões.</info>
+ </channel>
+ </channels>
+
 
 #T
 
