@@ -68,15 +68,7 @@
 #D
 
 #E
-<channels>
- <channel>
- <name>[COLOR white][B]EXATLON 2023[/B][/COLOR]</name>
- <thumbnail>https://pm1.aminoapps.com/6944/21fe50fb489c7c789cd0170f4f2b93c814af2b4ar1-640-640v2_00.jpg</thumbnail>
- <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/exatlon_2023</externallink>
- <fanart>https://pbs.twimg.com/media/DLtbB2IVwAA-9vx.jpg</fanart>
- <info>Exatlon é um reality de competição entre equipes.</info>
- </channel>
- </channels>
+
 
 <channels>
  <channel>
@@ -135,6 +127,16 @@
 #N
 
 #O
+<channels>
+ <channel>
+ <name>[COLOR white][B]OPERAÇÃO LIONESS[/B][/COLOR]</name>
+ <thumbnail>https://www.justwatch.com/images/poster/322061234/s718/temporada-2.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/operacaolioness</externallink>
+ <fanart>https://i.ytimg.com/vi/2dUCNRHdlWU/maxresdefault.jpg</fanart>
+ <info>Em Operação Lioness, uma fuzileira naval marcada por traumas está determinada a fazer de tudo para derrubar uma organização terrorista. Na série produzida por Nicole Kidman e Zoe Saldana, Cruz Manuelos (Laysla de Oliveira) é recrutada pela CIA para se infiltrar entre as mulheres de terroristas. Para sobreviver a diversas situações de vida ou morte e evitar ao máximo erros que podem custar sua própria segurança, e do país, ela é treinada e orientada por Joe (Zoe Saldana), a chefe da Operação Lioness.</info>
+ </channel>
+ </channels>
+
 <channels>
  <channel>
  <name>[COLOR white][B]OS ESCOLHIDOS[/B][/COLOR]</name>
