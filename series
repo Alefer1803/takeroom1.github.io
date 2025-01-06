@@ -180,15 +180,20 @@
 #P    
 <channels>
  <channel>
- <name>[COLOR white][B]PESADELO NA COZINHA 1ª TEMPORADA[/B][/COLOR]</name>
- <thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ0MGQ4NzctY2ExZi00ZjVlLWEwOWItMDI5YzEwYWMwNGI5XkEyXkFqcGdeQXVyNDA4NzUyMzg@._V1_.jpg</thumbnail>
- <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/pesadelo_na_cozinha</externallink>
- <fanart>https://www.ibandma.com.br/wp-content/uploads/2021/02/jacquin-1050x580-1.jpg</fanart>
- <info> Pesadelo na Cozinha é um reality show brasileiro exibido pela Rede Bandeirantes baseado no formato original 'Ramsay's Kitchen Nightmares' do Reino Unido. O programa comandado por Erick Jacquin, tem objetivo de levantar restaurantes que estão indo à falência.</info>
-</channel>
+ <name>[COLOR white][B]PINGUIM[/B][/COLOR]</name>
+ <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOe-o-Gin7Iku6weOvIHqQ3IIwffIRkLmSwQ&usqp=CAU</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/pinguim</externallink>
+ <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jFCU-A452UJemJTNS5PDyBjRdKGEktYaOQ&usqp=CAU</fanart>
+<info>Pinguim é a série derivada de Batman do Universo Expandido da DC que sobre um dos vilões mais clássicos dos quadrinhos, o mafioso de Gothan City Pinguim. A produção acompanha a ascenção de Oswald Cobblepot (Colin Ferrell), o Pinguim, um grande magnata de Gothan City envolvido no submundo de crime e corrupção. A trama irá focar na vida de Oswald antes de se tornar o grande vilão Pinguin enquanto ainda era um “ninguém desfigurado” que ajudava o mafioso Carmine Falcone a realizar seus trabalhos sujos. Embora ainda não seja levado a sério como criminoso, Pinguin já demonstra um lado violento e impulsivo, atacando quem entre no seu caminho e atrapalhe seus planos.</info>
  </channels>
 
-
+<item>
+<title>[COLOR silver][B]PINGUIM - EP01[/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:9348bf20121d62d5b5c93e10efae96b46896f1ec&dn=Pinguim.S01E01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOe-o-Gin7Iku6weOvIHqQ3IIwffIRkLmSwQ&usqp=CAU</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jFCU-A452UJemJTNS5PDyBjRdKGEktYaOQ&usqp=CAU</fanart>
+<info>Pinguim é a série derivada de Batman do Universo Expandido da DC que sobre um dos vilões mais clássicos dos quadrinhos, o mafioso de Gothan City Pinguim. A produção acompanha a ascenção de Oswald Cobblepot (Colin Ferrell), o Pinguim, um grande magnata de Gothan City envolvido no submundo de crime e corrupção. A trama irá focar na vida de Oswald antes de se tornar o grande vilão Pinguin enquanto ainda era um “ninguém desfigurado” que ajudava o mafioso Carmine Falcone a realizar seus trabalhos sujos. Embora ainda não seja levado a sério como criminoso, Pinguin já demonstra um lado violento e impulsivo, atacando quem entre no seu caminho e atrapalhe seus planos.</info>
+</item>
 
 #Q
 
