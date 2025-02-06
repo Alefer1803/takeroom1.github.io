@@ -1,68 +1,78 @@
 <!DOCTYPE html>
 <html>
 <head>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Disable
-function disableselect(e){
-return false
-}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
 
-function reEnable(){
-return true
-}
+    <!-- Fonte do Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
-//if IE4+
-document.onselectstart=new Function ("return false")
-document.oncontextmenu=new Function ("return false")
-//if NS6
-if (window.sidebar){
-document.onmousedown=disableselect
-document.onclick=reEnable
-}
-//-->
-</script>
-  
-<title>Index of / TakeRoom</title>
-<style>
-body {
-color: black;
-}
-h1 {
-color: black;
-}
-a {
-color: white;
-}
-</style>
+    <title>Index of / TakeRoom</title>
+    <style>
+        body {
+            color: black;
+            font-family: 'Outfit', sans-serif; /* Fonte aplicada ao corpo */
+        }
+
+        h1 {
+            color: black;
+            font-family: 'Outfit', sans-serif; /* Fonte aplicada ao título */
+        }
+
+        a {
+            color: white;
+        }
+
+        .style1 {
+            font-family: 'Berkshire Swash', cursive;
+            font-style: italic;
+            color: #0000FF;
+        }
+
+        /* Nova fonte aplicada ao Goldman (caso tenha uma fonte chamada Goldman) */
+        .goldman-text {
+            font-family: 'Goldman', sans-serif; /* Substitua 'Goldman' pela fonte real */
+            font-weight: bold;
+            font-size: 24px;
+        }
+    </style>
 </head>
 <body>
-<center> 
-<h1 style="text-align:center"><span style="color:#000000"><strong>ADDON TAKEROOM</strong></span></h1>
-<table style="background:darkblue; border-radius:5px; color:yellow; filter:alpha(opacity=80); opacity:0.8; padding:10px">
-<tbody>
-<tr>
-<th colspan="5">
-<hr /></th>
-</tr>
-<tr>
-<th colspan="5">VERSÃO UNIVERSAL
-<hr /></th>
-</tr>
-<tr>
-<td><img alt="[   ]" height="20px" src="check.png" width="20px" /></td>
-<td><a href="plugin.video.takeroom.zip">plugin.video.takeroom.zip</a></td>
-<td>&nbsp;Vers&atilde;o:</td>
-<td>4.0.0</td>
-</tr>
-<tr>
-<th colspan="5">
-<hr /></th>
-</tr>
-<tr>
-<td>
-</tr>
-</tbody>
-</table>
-</center>
+    <center> 
+        <h1 style="text-align:center">
+            <span style="color:#000000"><strong>ADDON TAKEROOM</strong></span>
+        </h1>
+        <table style="background:darkblue; border-radius:5px; color:yellow; filter:alpha(opacity=80); opacity:0.8; padding:10px">
+            <tbody>
+                <tr>
+                    <th colspan="5">
+                        <hr />
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="5">VERSÃO UNIVERSAL
+                        <hr />
+                    </th>
+                </tr>
+                <tr>
+                    <td><img alt="[   ]" height="20px" src="check.png" width="20px" /></td>
+                    <td><a href="plugin.video.takeroom.zip">plugin.video.takeroom.zip</a></td>
+                    <td>&nbsp;Versão:</td>
+                    <td>4.0.0</td>
+                </tr>
+                <tr>
+                    <th colspan="5">
+                        <hr />
+                    </th>
+                </tr>
+                <tr>
+                    <td><p class="goldman-text">Goldman</p></td> <!-- Exemplo de uso da classe 'goldman-text' -->
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </body>
 </html>
