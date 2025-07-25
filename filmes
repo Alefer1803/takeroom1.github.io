@@ -30,6 +30,16 @@
 
 <channels></channels>
 <channel>
+<name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
+<externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-animacao</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
 <name>[COLOR white][B]DRAMA[/B][/COLOR]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-drama</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
