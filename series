@@ -280,7 +280,20 @@
 #U
 
 #W
+<thumbnail>https://www.bnewssaopaulo.com.br/media/_versions/2025/08/wandinha-1_widemd.png</thumbnail>
+<fanart>https://cinebuzz.com.br/wp-content/uploads/2025/04/quando-sera-divulgado-o-primeiro-teaser-da-2a-temporada-de-wandinha.jpg</fanart>
+<info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
+</item>
 
+<channels>
+ <channel>
+ <name>[COLOR white][B]WANDINHA 2ª TEMPORADA[/B][/COLOR]</name>
+ <thumbnail>https://www.bnewssaopaulo.com.br/media/_versions/2025/08/wandinha-1_widemd.png</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/wandinha</externallink>
+ <fanart>https://cinebuzz.com.br/wp-content/uploads/2025/04/quando-sera-divulgado-o-primeiro-teaser-da-2a-temporada-de-wandinha.jpg</fanart>
+ <info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
+ </channel>
+ </channels>
 #X
 
 #Y
