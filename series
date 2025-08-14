@@ -1,4 +1,15 @@
 #A
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]ALIEN: EARTH[/B][/COLOR]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w300/kjHBX4U7Udje1W9OAfoJX2kcbh8.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/alienearth</externallink>
+ <fanart>https://www.giornalepop.com/wp-content/uploads/2024/08/alien-romulus.jpg</fanart>
+ <info>Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.</info>
+ </channel>
+ </channels>
+
 <channels>
  <channel>
  <name>[COLOR white][B]A CASA DO DRAGÃO - 2ª TEMPORADA[/B][/COLOR]</name>
