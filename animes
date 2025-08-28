@@ -8,6 +8,16 @@
 #D
 <channels>
  <channel>
+ <name>[COLOR white][B]DRAGON BALL DAIMA[/B][/COLOR]</name>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-animes/dragonballdaima</externallink>
+<thumbnail>https://i.imgur.com/Xycu1NE.jpg</thumbnail>
+<fanart>https://www.crunchyroll.com/imgsrv/display/thumbnail/640x360/catalog/crunchyroll/26079ab060401d8a76039e985d63a3e9.jpe</fanart>
+<info>Dragon Ball Super segue as aventuras do protagonista Goku e seus amigos, depois de derrotar Majin Boo e trazer paz para Terra mais uma vez. Goku encontra seres de longe mais poderosos e atinge o poder de um deus.</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
  <name>[COLOR white][B]DRAGON BALL SUPER[/B][/COLOR]</name>
  <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-animes/dragonballsuper</externallink>
 <thumbnail>https://i.imgur.com/Xycu1NE.jpg</thumbnail>
