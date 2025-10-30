@@ -1,6 +1,6 @@
 en<channels>
  <channel>
- <name>[COLOR white][B]CANAIS TV - [/B][/COLOR][COLOR green][B] ON [/B][/COLOR]</name>
+ <name>[B][COLOR blue]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
  <thumbnail>https://img.freepik.com/fotos-premium/console-de-tv-na-mao-da-mulher_146667-4865.jpg</thumbnail>
  <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/listateste/listateste.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
@@ -11,7 +11,7 @@ en<channels>
 
 <channels></channels>
 <channel>
-<name>[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]FILMES[/B][/COLOR]</name>
+<name>[B][COLOR blue]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes</externallink>
 <thumbnail>https://img.freepik.com/fotos-premium/um-projetor-de-filme-com-a-palavra-o-ultimo-nele_900370-2721.jpg?w=360</thumbnail>
 <fanart></fanart>
@@ -22,7 +22,7 @@ en<channels>
 
 <channels></channels>
 <channel>
-<name>[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<name>[B][COLOR blue]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/series</externallink>
 <thumbnail>https://www.tvtime.com/images/posters.png</thumbnail>
 <fanart></fanart>
@@ -32,7 +32,7 @@ en<channels>
 
 <channels></channels>
 <channel>
-<name>[COLOR orange][B]>>[/B][/COLOR][COLOR yellow][B]ANIMES[/B][/COLOR][COLOR white][B]/[/B][/COLOR][COLOR green][B]DESENHOS[/B][/COLOR]</name>
+<name>[B][COLOR blue]●[/COLOR] [COLOR white]ANIMES E DESENHOS[/COLOR][/B]</name>
 <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/animes</externallink>
 <thumbnail>https://s0.smartresize.com/wallpaper/132/716/HD-wallpaper-anime-animes-anime-duvar-ka%C4%9F%C4%B1d%C4%B1.jpg</thumbnail>
 <fanart></fanart>
