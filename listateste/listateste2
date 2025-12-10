@@ -1,0 +1,363 @@
+Skip to content
+ 
+Search Gists
+Search...
+All gists
+Back to GitHub
+@Gunboybr
+Gunboybr/baseregex
+Last active 7 years ago • Report abuse
+Code
+Revisions
+12
+Clone this repository at &lt;script src=&quot;https://gist.github.com/Gunboybr/e9130990f8f99bde4e25252f825ee8a6.js&quot;&gt;&lt;/script&gt;
+<script src="https://gist.github.com/Gunboybr/e9130990f8f99bde4e25252f825ee8a6.js"></script>
+baseregex
+baseregex
+
+<item>
+<title>[B][COLOR white]FOX SPORTSHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]foxsports1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]BAND SPORTSHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]bandsports.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATEHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]combate.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBOHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discoveryturbo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPNHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]espn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN+HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]espnmais.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASILHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]espnbrasil.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO BRHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]esporteinterativobr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVOHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]esporteinterativo1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPORTE INTERATIVO 2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]esporteinterativo2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ei2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTSHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]foxsports1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]foxsports2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBEHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiereclubes.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere4.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere5.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere6.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]premiere7.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTVHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]sportv1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]sportv2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]sportv3.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]A&EHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]aie.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMCHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]amc.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXNHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]axn.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAXHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]cinemax.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOXHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]fox.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]foxpremium1.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]foxpremium2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANETHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]animalplanet.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNELHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discovery.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATIONHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discoverycivilization.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCEHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discoverysience.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATERHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discoverytheater.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORYHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]history.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2HD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]history2.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEOHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]natgeo.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILDHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]natgeowind.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[B][COLOR white]BOOMERANGHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]boomerang.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORKHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]cartoon.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDSHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]discoverykids.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNELHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]disney.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIORHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]disneyjunior.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XDHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]disneyx.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOBHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]gloob.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JRHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]nickjr.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEONHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]nick.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCASTHD[/COLOR][/B]</title>
+<link>https://$doregex[MegaboxTV]tooncast.m3u8|Referer=https://canais.ink/</link>
+<regex><name>MegaboxTV</name><expres>file: "https://(.*?).m3u8",</expres><page>https://canais.ink/canais-jw.php</page><referer>https://canais.ink/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png</thumbnail>
+</item>
+
