@@ -71,6 +71,8 @@
  </channels>
 
 #B
+<channels>
+<channel>
  <name>[COLOR white][B]BRIDGERTON[/B][/COLOR]</name>
  <thumbnail>https://image.tmdb.org/t/p/w500/rAKJSFPXv9aFpeZAyr0yNg0HxuP.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/Alefer1803/takeroom1.github.io/refs/heads/master/ep-series/bridgerton</externallink>
