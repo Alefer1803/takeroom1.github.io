@@ -247,6 +247,16 @@
 
 <channels>
  <channel>
+ <name>[COLOR white][B]RESIDENT EVIL: NO ESCURO ABSOLUTO[/B][/COLOR]</name>
+ <thumbnail>https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/07/Resident-Evil.jpeg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/residentevil</externallink>
+ <fanart>https://observatoriodegames.com.br/wp-content/uploads/2021/06/Resident-Evil.jpg</fanart>
+ <info>O Agente Federal Leon S. Kennedy se une à funcionária da TerraSave Claire Redfield para investigar um surto de zumbis. Baseado na popular série de videogames com o mesmo nome.</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
  <name>[COLOR white][B]ROUND 6[/B][/COLOR]</name>
  <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/Alefer1803/takeroom1.github.io/refs/heads/master/ep-series/round6</externallink>
