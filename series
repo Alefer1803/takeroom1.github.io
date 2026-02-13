@@ -235,13 +235,14 @@
 
 
 #R
+
 <channels>
  <channel>
- <name>[COLOR white][B]RESIDENT EVIL: NO ESCURO ABSOLUTO[/B][/COLOR]</name>
- <thumbnail>https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/07/Resident-Evil.jpeg</thumbnail>
- <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/residentevil</externallink>
- <fanart>https://observatoriodegames.com.br/wp-content/uploads/2021/06/Resident-Evil.jpg</fanart>
- <info>O Agente Federal Leon S. Kennedy se une à funcionária da TerraSave Claire Redfield para investigar um surto de zumbis. Baseado na popular série de videogames com o mesmo nome.</info>
+ <name>[COLOR white][B]RAGNAROK[/B][/COLOR]</name>
+ <thumbnail>https://www.themoviedb.org/t/p/original/37p95Lpe7mfVX86ZcVr7TisAHPn.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/ragnarok</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
  </channel>
  </channels>
 
@@ -266,15 +267,7 @@
  </channels>
 
 
-<channels>
- <channel>
- <name>[COLOR white][B]RAGNAROK[/B][/COLOR]</name>
- <thumbnail>https://www.themoviedb.org/t/p/original/37p95Lpe7mfVX86ZcVr7TisAHPn.jpg</thumbnail>
- <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/ragnarok</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
- </channel>
- </channels>
+
 
 #S
 <channels>
