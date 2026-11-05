@@ -260,7 +260,17 @@
  </channel>
  </channels>
 
-#P    
+#P
+<channels>
+ <channel>
+ <name>[COLOR white][B]PPROFUNDEZAS[/B][/COLOR]</name>
+ <thumbnail>https://media.fstatic.com/FtedPracFk37tbEYgmtQCRc55fg=/350x525/smart/filters:format(webp)/media/movies/covers/2026/10/52PTWBHbFgCP7LMDD9UbgqMhptT.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/profundezas</externallink>
+ <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMGpbiojRp4DXyirl3DfbRu0lUlEeyza-yvzbegpeve9qwDI12P3sL4Es&s=10</fanart>
+<info>Quando uma misteriosa criatura marinha aterroriza uma pequena cidade, um pescador durão e sua família lutam para proteger a comunidade.</info>
+ <channel>
+</channels>
+
 <channels>
  <channel>
  <name>[COLOR white][B]PINGUIM[/B][/COLOR]</name>
