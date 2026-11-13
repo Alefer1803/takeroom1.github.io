@@ -385,11 +385,18 @@
 
 #U
 
+#V
+<channels>
+ <channel>
+ <name>[COLOR white][B]VISIONQUEST 1ª TEMPORADA[/B][/COLOR]</name>
+ <thumbnail>https://m.media-amazon.com/images/M/MV5BY2FlNjIxMDktMGYyZi00NjY3LWI4YjctYTcxNzc2MDUwYjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+ <externallink>https://github.com/Alefer1803/takeroom1.github.io/raw/master/ep-series/visionquest</externallink>
+ <fanart>https://www.jwave.com.br/wp-content/uploads/2026/08/VisionQuest-1068x601.png</fanart>
+ <info> Um Visão repaginado tem se escondido daqueles que buscam usá-lo como arma. Enquanto permanece na clandestinidade, ele consulta as personalidades de IA embutidas em sua programação, incluindo o infame Ultron, para encontrar seu verdadeiro propósito.</info>
+ </channel>
+ </channels>
+
 #W
-<thumbnail>https://www.bnewssaopaulo.com.br/media/_versions/2025/08/wandinha-1_widemd.png</thumbnail>
-<fanart>https://cinebuzz.com.br/wp-content/uploads/2025/04/quando-sera-divulgado-o-primeiro-teaser-da-2a-temporada-de-wandinha.jpg</fanart>
-<info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
-</item>
 
 <channels>
  <channel>
